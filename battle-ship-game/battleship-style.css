@@ -1,0 +1,80 @@
+/* =============================*/
+.page {
+  min-height: 100vh;
+  background-image: url("https://wallpapercave.com/wp/wp2874399.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  justify-content: center;
+}
+
+.prijava {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-top: -180px;
+  margin-left: -225px;
+  background-color: white;
+  width: 450px;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+.setup-page {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -350px;
+  margin-left: -250px;
+  background-color: white;
+  width: 550px;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.login100-form-title-1 {
+  font-family: Poppins-Bold;
+  font-size: 30px;
+  color: black;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+}
+
+/* =============================*/
+#wrapper {
+  text-align: center;
+}
+#water {
+  table-layout: fixed;
+  height: 400px;
+  width: 400px;
+  order: none;
+}
+#water td {
+  background: #77f;
+  border: solid 1px #00f;
+}
+.Kolona {
+  align-items: center;
+  text-align: center;
+}
+.tablePlayer1 {
+  table-layout: fixed;
+  height: 400px;
+  width: 400px;
+  order: none;
+}
+.tablePlayer1 td {
+  background: #77f;
+  border: solid 1px #00f;
+}
+.br {
+  background-color: white;
+  align-items: center;
+  text-align: center;
+}
